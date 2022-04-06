@@ -1,6 +1,6 @@
 ---
-name: Feature request creation disabled
-about: Make a clear demand for improve ClassQuiz 💪
+name: Feature request
+about: Make a detailed demand to improve ClassQuiz 💪
 
 ---
 
